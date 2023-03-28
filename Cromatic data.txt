@@ -1,0 +1,79 @@
+
+https://www.researchgate.net/publication/2311223_Experiments_with_Parallel_Graph_Coloring_Heuristics_and_Applications_of_Graph_Coloring
+
+https://sites.google.com/site/graphcoloring/vertex-coloring
+
+http://cedric.cnam.fr/~porumbed/graphs/
+
+Problem ,      Cromatic number,     Best coloring known
+
+myciel3.col       4,4
+myciel4.col       5,5
+mug88_1.col     4,4
+mug88_25.col   4,4
+mug100_1.col   4,4
+mug100_25.col 4,4
+myciel5.col   6,6
+queen5_5.col  5,5
+jean.col 10,10
+queen6_6.col  7,7
+huck.col 11,11
+myciel6.col  7,7
+david.col 11,11
+DSJC125.1_001.col 5,5
+DSJC125.1.col 5,5
+miles250.col 8,8
+queen7_7.col 7,7
+anna.col 11,11
+games120.col 9,9
+queen8_8.col 9,9
+queen9_9.col 10,10
+
+
+
+
+miles500.col 20,20
+myciel7.col 8,8
+queen8_12.col 12,12
+queen10_10.col 11,11
+zeroin.i.3.col 30,30
+zeroin.i.2.col 30,30
+DSJC250.1.col 8,9
+mulsol.i.2.col 31,31
+DSJC125.5.col 12,17
+queen11_11.col 11,12
+mulsol.i.3.col 31,31
+mulsol.i.4.col 31,31
+mulsol.i.1.col 49,49
+mulsol.i.5.col 31,31
+zeroin.i.1.col 49,49
+miles750.col 31,31
+queen12_12.col 12,12
+miles1000.col   42,42
+DSJC125.9.col 30,42
+queen13_13.col 13,14
+
+
+
+will199GPIA.col 7,7
+queen14_14.col 14,14
+fpsol2.i.3.col 30,30
+fpsol2.i.2.col 30,30
+miles1500.col 73,73
+queen15_15.col 15,17
+fpsol2.i.1.col  65,65
+queen16_16.col ?,18
+DSJC500.1.col ?,12
+inithx.i.3.col 31,31
+inithx.i.2.col 31,31
+school1_nsh.col 14,14
+DSJC250.5.col ?,28
+le450_15c.col 15,15
+le450_25c.col 25,25
+inithx.i.1.col 54,54
+school1.col  14,14
+flat300_28_0.col 28,28
+DSJC500.5.col ?,48
+DSJC1000.1.col ?,20
+DSJC1000.5.col ?,83
+DSJC1000.9.col ?,222
