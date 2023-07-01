@@ -1,2 +1,2 @@
 # Graph-Coloring-Problem-with-Genetic-Algorithm
-Hill Climbing and Genetic Algorithm for solving the graph coloring problem
+A Comparison between a Genetic Algorithm and the Hill Climbing Algorithm for the Vertex Graph Coloring problem
